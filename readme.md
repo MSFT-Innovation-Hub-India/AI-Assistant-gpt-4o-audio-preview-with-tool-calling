@@ -1,4 +1,4 @@
-# Contoso Gaming Sample Audio
+# Contoso Gaming (Audio Preview)
 
 A sample application utilizing the cutting-edge GPT-4o-audio-preview API. This application showcases the following capabilities:
 - **Interactive AI Assistant**: Engage with the AI Assistant using your microphone for input, and receive responses played out as audio.

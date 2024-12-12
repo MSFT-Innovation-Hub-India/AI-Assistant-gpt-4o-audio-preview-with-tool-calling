@@ -1,0 +1,11 @@
+streamlit 
+streamlit-audiorecorder
+openai
+streamlit-webrtc
+yfinance
+plotly
+atlassian-python-api
+pyodbc
+azure-search-documents
+python-dotenv
+

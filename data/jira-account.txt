@@ -1,0 +1,12 @@
+Create a Jira Account - https://id.atlassian.com/
+Get an account key
+You will then need to create a Project in Jira using any template
+
+You will need the following for the Jira integration
+# Jira connection details (to register grievances)
+attlassian_api_key = os.getenv("attlassian_api_key")
+attlassian_user_name = os.getenv("attlassian_user_name")
+attlassian_url = os.getenv("attlassian_url")
+grievance_project_key = os.getenv("grievance_project_key")
+grievance_type = os.getenv("grievance_type")
+grievance_project_name = os.getenv("grievance_project_name")

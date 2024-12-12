@@ -1,0 +1,24 @@
+3. Detailed Question and Answer Section
+Q: What should I do if my game crashes frequently? A: Frequent crashes can be caused by various factors, including outdated drivers, insufficient system resources, or corrupted game files. Try the following steps:
+1.	Update your graphics and system drivers.
+2.	Ensure your system meets the minimum requirements for the game.
+3.	Verify the integrity of the game files through the game launcher.
+4.	Reinstall the game if the issue persists.
+Q: How can I improve my game performance? A: Improving game performance can enhance your gaming experience. Consider the following tips:
+1.	Lower the in-game graphics settings.
+2.	Close unnecessary background applications.
+3.	Ensure your system is free from malware.
+4.	Upgrade your hardware if possible (e.g., more RAM, better GPU).
+Q: How do I link my account to social media? A: Linking your account to social media platforms can enhance your gaming experience. Go to the account settings on our website, find the social media linking section, and follow the instructions to connect your accounts.
+Q: What do I do if I encounter a hacker or cheater in the game? A: Report the player using the in-game reporting tool. Provide details such as the player's username and a description of the suspicious activity. Our team will investigate and take appropriate action.
+Q: How can I participate in beta testing for new games? A: To participate in beta testing, sign up for our beta program on our website. Selected participants will receive an invitation with instructions on how to access the beta version of the game.
+4. User Guidance Documents
+Setting Up Your Account
+1.	Creating an Account:
+o	Visit our website and click on "Sign Up."
+o	Fill in the required details: email, username, and password.
+o	Verify your email address through the verification link sent to you.
+2.	Securing Your Account:
+o	Enable two-factor authentication (2FA) in your account settings.
+o	Use a strong, unique password and change it regularly.
+o	Avoid sharing your account details with others.

@@ -7,6 +7,9 @@ A sample application utilizing the cutting-edge GPT-4o-audio-preview API. This a
 
 To see a demo of this in action, check out our [YouTube video](https://youtu.be/2skyRF-_ZD0).
 
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/80c96e24-80c4-4eea-b7f7-13bd040c1c18" />
+
+
 **Note The demo is based on OpenAI's GPT-4o audio-preview API, and not using the equivalent on Azure OpenAI. It is not available in Azure as of this writing**
 
 ## Table of Contents

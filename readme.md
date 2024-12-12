@@ -67,7 +67,7 @@ To get started with this project, follow these steps:
     ai_semantic_config=your_ai_semantic_config
     ai_assistant_organization_name=your_ai_assistant_organization_name
     ```
-
+5. Install the ODBC Driver v18 for the operating system where this program is to be run. This is required for connecting to the sql database in azure from the application
 ## Usage
 To run the application, use the following command:
 ```sh

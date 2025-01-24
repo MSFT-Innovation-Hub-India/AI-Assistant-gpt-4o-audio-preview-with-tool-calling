@@ -1,9 +1,14 @@
-# Contoso Gaming (Audio Preview)
+# AI-Assistant gpt-4o-audio-preview with-tool-calling
 
 A sample application utilizing the cutting-edge GPT-4o-audio-preview API. This application showcases the following capabilities:
 - **Interactive AI Assistant**: Engage with the AI Assistant using your microphone for input, and receive responses played out as audio.
 - **Seamless Audio Processing**: The GPT-4o-audio-preview API handles both audio input and output, eliminating the need for separate Speech-to-Text (STT) and Text-to-Speech (TTS) services.
 - **Dynamic Tool Integration**: Automatically translate user requests into database queries, Jira API calls, or AI Search operations based on the detected intent.
+
+The scenario involves a Customer of Contoso Gaming Platform services, using Speech to interact with Assistant for:
+- Get their Games status summary by performing RAG over a T-SQL RDBMS Database
+- Answer their queries on the platform usage, troubleshooting guidelines
+- Register a grievance in the Jira Cloud, and help monitor the status of the raised ticket
 
 To see a demo of this in action, check out our [YouTube video](https://youtu.be/2skyRF-_ZD0).
 
